@@ -19,10 +19,9 @@ library(RCurl)
 ### Instructions
 
 * Watch the following videos and answer the accompanying questions:
-  * Introducing the shell
-  * Navigating files and directories
-  * Working with files and directories
-  * Pipes and filters
+  * [Introducing the shell](https://youtu.be/1iPO0AHqcMY)
+  * [Navigating files and directories](https://youtu.be/Ai2Q3cJsJwI)
+  * [Working with files and directories](https://youtu.be/-bhWFtuK5ss)
 
   
 ### Problems
